@@ -1,0 +1,16 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.suggest.localityBonus": false
+
+    // "tailwindCSS.includeLanguages": {
+    //     "html": "html",
+    //     "javascript": "javascript",
+    //     "css": "css"
+    // },
+    // "editor.quickSuggestions": {
+    //     "strings": true
+    // }
+}
